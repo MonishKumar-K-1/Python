@@ -1,0 +1,19 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# VS Code
+.vscode/
+
+# Secrets
+.env
+.env.*
+
+# AWS ML Challenge datasets
+student_resource/dataset/
